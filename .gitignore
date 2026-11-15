@@ -1,0 +1,12 @@
+# Arquivos compilados do Java
+*.class
+
+# Arquivos executáveis do C++
+*.exe
+*.o
+*.obj
+
+# Configurações locais do VS Code
+.vscode/
+
+erro_cpp.txt
